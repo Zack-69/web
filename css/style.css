@@ -1,0 +1,10 @@
+div
+{
+    background-color:cornflowerblue;
+    width: 300;
+    border-radius: 14px;
+    padding: 10px;
+    color: hwb(170 51% 2% / 0.89);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+}   
